@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+.google-play {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.google-play img {
+    max-width: 200px;
+}
